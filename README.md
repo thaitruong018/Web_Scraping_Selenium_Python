@@ -1,2 +1,2 @@
 # Web_Scraping_Selenium_Python
-Using Python and Selenium library to crawl data
+Using Python and Selenium library to crawl data from Tiki and Vnexpress
